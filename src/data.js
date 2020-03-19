@@ -1,30 +1,30 @@
 export default [
 	{
 		id: 1,
-		title: 'The Art Of War',
-		price: 10.11,
+		title: 'A New Earth',
+		price: 11.99,
 		image:
-			'https://images-na.ssl-images-amazon.com/images/I/41FBMkY3cgL._SX331_BO1,204,203,200_.jpg'
+		'https://images-na.ssl-images-amazon.com/images/I/81hA6augjYL.jpg'
 	},
 	{
 		id: 2,
-		title: 'Civilization and Its Discontents',
-		price: 14.29,
+		title: 'The Shack',
+		price: 8.81,
 		image:
-			'https://images-na.ssl-images-amazon.com/images/I/51Jj12iMZnL._SX331_BO1,204,203,200_.jpg'
+			'https://images-na.ssl-images-amazon.com/images/I/51plnK1YpdL.jpg'
 	},
-	{
+			{
 		id: 3,
-		title: 'Influence: The Psychology of Persuasion',
-		price: 10.98,
+		title: 'The Alchemist',
+		price: 10.47,
 		image:
-			'https://images-na.ssl-images-amazon.com/images/I/512-B-1yXuL._SX331_BO1,204,203,200_.jpg'
+			'https://images-na.ssl-images-amazon.com/images/I/516c6gUQLaL._SX329_BO1,204,203,200_.jpg'
 	},
 	{
 		id: 4,
-		title: 'Grokking Algorithms',
-		price: 40.00,
+		title: 'The Four Agreements',
+		price: 6.48,
 		image:
-			'https://images-na.ssl-images-amazon.com/images/I/61uUPXbhMxL._SX397_BO1,204,203,200_.jpg'
+			'https://images-na.ssl-images-amazon.com/images/I/51TEldDhRxL._SX343_BO1,204,203,200_.jpg'
 	}
 ];
